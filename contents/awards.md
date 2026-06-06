@@ -1,13 +1,12 @@
-# 荣誉奖项
-## 校级荣誉
-- 2023-2024学年：校级优秀学生奖学金、校级三好学生（2024.12/2025.03）
-- 2024-2025学年：校级优秀学生奖学金、校级三好学生（2025.12/2026.03）
+# Honors & Awards
+## Competition Prizes
+- Provincial Second Prize, Lanqiao Cup Software Competition
+- National Third Prize, National University Computer Design Contest
+- Provincial Third Prize, National Intelligent Robot Creative Contest
+- National Third Prize, National Digital Media Technology Contest
+- Provincial Second Prize, National International Trade Elite Challenge
+- Provincial Third Prize, National Energy Economy Innovation Contest
+- Silver Award, National Innovation & Transformation Competition
 
-## 学科竞赛获奖
-- 全国大学生计算机设计大赛｜国家级三等奖｜2025.08
-- 中国高校智能机器人创意大赛｜省级三等奖｜2025.07
-- 全国大学生数字媒体科技作品及创意竞赛｜国家级三等奖｜2025.10
-- 全国高校精英挑战赛（国际贸易）｜省级二等奖｜2025.10
-- 全国大学生能源经济学术创意大赛｜省级三等奖｜2026.05
-- 全国高校创新转化大赛｜银奖｜2026.05
-- 蓝桥杯软件大赛｜省级二等奖｜2026.05
+## School Honors
+- Merit Student & Excellent Academic Scholarship for two consecutive school years
