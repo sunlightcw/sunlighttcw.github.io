@@ -1,12 +1,13 @@
+# 荣誉奖项
+## 校级荣誉
+- 2023-2024学年：校级优秀学生奖学金、校级三好学生（2024.12/2025.03）
+- 2024-2025学年：校级优秀学生奖学金、校级三好学生（2025.12/2026.03）
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+## 学科竞赛获奖
+- 全国大学生计算机设计大赛｜国家级三等奖｜2025.08
+- 中国高校智能机器人创意大赛｜省级三等奖｜2025.07
+- 全国大学生数字媒体科技作品及创意竞赛｜国家级三等奖｜2025.10
+- 全国高校精英挑战赛（国际贸易）｜省级二等奖｜2025.10
+- 全国大学生能源经济学术创意大赛｜省级三等奖｜2026.05
+- 全国高校创新转化大赛｜银奖｜2026.05
+- 蓝桥杯软件大赛｜省级二等奖｜2026.05
