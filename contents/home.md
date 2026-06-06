@@ -1,17 +1,19 @@
+## 个人简介
+蔡威，女，2005年1月生，共青团员，山东中医药大学医学信息工程学院**数据科学与大数据技术专业**在读本科生。
 
+专业绩点3.64，专业排名8/108；核心专业课成绩优异：数据采集与处理95分、数学建模94分、电子技术基础94分、计算机网络91分；英语CET-4：519分，CET-6：500分。
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+熟练掌握Python、Spark、机器学习建模、数据清洗与特征工程、KNIME数据分析平台，深耕**中医药大数据挖掘、算法建模、材料数据建模**方向，拥有多项科研课题、学术论文、学科竞赛经历。
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+## 联系方式
+- 邮箱：18668949870@163.com
+- 电话：18668949870
+- GitHub主页：https://github.com/Sunlightcw
 
-#### Contact
+## 个人自评
+擅长大数据全流程处理、机器学习模型搭建，依托科研与竞赛积累扎实的数据挖掘、团队协作与项目落地能力；目前持续深耕深度学习与算法底层理论，计划读研阶段夯实数理基础，专注AI+中医药交叉研究。
 
-Email: user[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+## 校园任职经历
+- 大学生宣讲团组长（2024.09–2025.09）：统筹宣讲方案、人员分工与全流程落地
+- 校教学信息中心副部长（2025.09–至今）：教务数据统计、教学调研、活动组织
+- 班级宣传委员（2024.09–至今）：班级宣传策划、素材采编与活动落地
